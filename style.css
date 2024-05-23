@@ -1,0 +1,20 @@
+@import url('https://fons.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+
+
+
+}
+
+.titulo-pricipal{
+    font-family: var(--roboto-mono);
+    font-size: 32px;
+
+}
+
+.titulo-segunario{
+    font-size: 24px;
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
